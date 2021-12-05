@@ -1,0 +1,1 @@
+alert("Hello,我是2.js哟~")
